@@ -1,4 +1,4 @@
- # house_price_prediction
+ # House Price Prediction
 Predict house prices using Python with linear regression. Users input house features like area and number of bedrooms and the program predicts the price.
  # Features
 - Input house area and number of bedrooms
